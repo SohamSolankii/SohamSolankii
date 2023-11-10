@@ -1,7 +1,11 @@
-### Hi there 👋
+## Hi there, I'm [Soham!](https://github.com/SohamSolankii)👋
+
+- 👨🏽‍💻 My Codeforces profile: https://codeforces.com/profile/sohamm7<br>
+- 💬 Reach out to me: sohammsolanki@gmail.com
 
 <!--
 **SohamSolankii/SohamSolankii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://komarev.com/ghpvc/?username=SohamSolankii&color=blueviolet)
 
 Here are some ideas to get you started:
 
