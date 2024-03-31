@@ -1,6 +1,6 @@
 ## Hi there, I'm [Soham!](https://github.com/SohamSolankii)👋
 
-- 👨🏽‍💻 My Codeforces profile: https://codeforces.com/profile/sohamm7<br>
+- 👨🏽‍💻 My LinkedIn profile: www.linkedin.com/in/sohamsolankii<br>
 - 💬 Reach out to me: sohammsolanki@gmail.com
 
 <!--
