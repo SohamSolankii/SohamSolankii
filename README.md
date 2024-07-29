@@ -1,6 +1,6 @@
-<div style="display: flex; justify-content: flex-end; align-items: center;">
+<!-- <div style="display: flex; justify-content: flex-end; align-items: center;">
   <img align="right" src="https://komarev.com/ghpvc/?username=SohamSolankii&color=blueviolet&label=visitors" alt="Visitors Badge"/>
-</div>
+</div> -->
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Soham+Solanki!;" />
